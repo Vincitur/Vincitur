@@ -9,7 +9,9 @@
 
 | Rank | Languages |
 |-----:|---------------|
-|     1|       C/C++        |
-|     2|        Java       |
-|     3|        Python       |
-|     4|        SQL       |
+|     1|        C & C++      |
+|     2|        Node.js      |
+|     3|        Java         |
+|     4|        Python       |
+|     5|        SQL          |
+|     6|        Ruby          |
